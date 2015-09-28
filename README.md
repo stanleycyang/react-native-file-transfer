@@ -5,7 +5,7 @@ This little plugin lets you easily upload files from your photo library to a web
 2. In xcode: Add `RTCFileTransfer.m` in `Your Project > Libraries > React > Base`.
 
 # how to use it
-When you properly add the `RCTFileTransfer.m` file to your xcode project you may now use it in the js files. Example usage:
+When you properly add the `RTCFileTransfer.m` file to your xcode project you may now use it in the js files. Example usage:
 ```javascript
 var { NativeModules } = require('react-native');
 var obj = {
